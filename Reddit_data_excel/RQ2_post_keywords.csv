@@ -1,0 +1,47 @@
+topic_id,count,top_words,category
+0,1900,"ai, chatgpt, openai, prompt, gpt, models, model, data, human, security",AI and Automation
+1,840,"cybersecurity, career, career cybersecurity, skills, cybersecurity career, field, start, cyber, cyber security, jobs","Career, Jobs and Hiring"
+2,738,"interview, questions, position, technical, cybersecurity, analyst, role, interviews, prepare, security","Career, Jobs and Hiring"
+3,602,"degree, science, masters, cybersecurity, computer, computer science, worth, master, bachelor, cs","Career, Jobs and Hiring"
+4,594,"soc, soc analyst, analyst, role, analyst role, experience, job, level, security, years","Career, Jobs and Hiring"
+5,496,"awareness, security awareness, training, awareness training, cybersecurity, cybersecurity awareness, security, ideas, project, cyber",Privacy and Governance
+6,478,"internship, job, internships, applying, jobs, cybersecurity, experience, year, interviews, intern","Career, Jobs and Hiring"
+7,463,"cloud, cloud security, aws, azure, security, engineer, devops, architect, career, years",Defensive Security
+8,435,"breach, data breach, data, million, breaches, data breaches, information, customers, personal, 000",Threat Landscape
+9,410,"ransomware, ransomware attack, attack, data, group, lockbit, ransomware attacks, attacks, hit, gang",Threat Landscape
+10,384,"siem, endpoint, security, tools, log, logs, small, edr, xdr, mdr",Defensive Security
+11,370,"cysa, certs, comptia, certification, certifications, cert, cissp, security, sec, comptia cysa",Certifications and Learning
+12,352,"ethical, hacking, ethical hacking, bug, laptop, bug bounty, bounty, hacker, kali, linux",Offensive Security
+13,338,"phishing, email, malware, emails, phishing attack, attack, malicious, awareness, com, campaign",Threat Landscape
+14,323,"salary, pay, job, company, salaries, role, years, raise, cybersecurity, year","Career, Jobs and Hiring"
+15,315,"password, mfa, passwords, password manager, authentication, manager, 2fa, factor, factor authentication, multi factor",Network and Infrastructure
+16,269,"career, tech, years, job, year, degree, old, field, worked, school","Career, Jobs and Hiring"
+17,245,"grc, technical, compliance, risk, audit, role, years, auditor, management, career",Privacy and Governance
+18,234,"vulnerability, network, assessment, scan, vulnerability assessment, tool, vulnerability management, scanning, monitoring, scanner",Threat Landscape
+19,231,"penetration, penetration testing, testing, test, pentesting, penetration test, basics, pen, tools, guide",Offensive Security
+20,221,"remote, jobs, job, cybersecurity, country, remote job, cybersecurity jobs, usa, europe, eu","Career, Jobs and Hiring"
+21,217,"desk, helpdesk, support, msp, role, job, years, position, admin, experience","Career, Jobs and Hiring"
+22,217,"penetration, testing, tester, penetration testing, pentesting, penetration tester, pen, pentester, pen testing, web",Offensive Security
+23,207,"vpn, wifi, network, router, home, access, devices, ip, secure, connect",Network and Infrastructure
+24,192,"news, reports, cybersecurity news, newsletter, week, 2025, cybersecurity, latest, research, com",EXCLUDE
+25,192,"incident, incident response, response, ir, forensics, response plan, pack, security incident, incidents, teams",Defensive Security
+26,189,"cyber attack, attack, cyber, russian, group, china, targeting, hackers, cyberattack, chinese",Threat Landscape
+27,189,"resume, imgur, imgur com, review, feedback, applying, com, analyst, experience, entry","Career, Jobs and Hiring"
+28,187,"dark web, dark, web, web monitoring, monitoring, data, forums, services, monitor, leaked",Dark Web and Underground
+29,172,"bootcamp, cybersecurity bootcamp, bootcamps, boot, cybersecurity, camp, boot camp, worth, program, camps",Certifications and Learning
+30,164,"threat, threat intelligence, intelligence, cyber threat, intel, feeds, hunting, threat hunting, threat intel, cyber",Threat Landscape
+31,153,"cloud, cloud security, aws, security, security cloud, terraform, environments, aws security, iam, secure",Defensive Security
+32,149,"supply chain, supply, chain, chain attack, attack, packages, github, package, software supply, downloads",Threat Landscape
+33,145,"cissp, certification, cism, cisa, cissp certification, worth, exam, associate, isc2, experience",Certifications and Learning
+34,142,"ccna, networking, network, certification, cisco, comptia, job, year, getting, network engineer",Certifications and Learning
+35,141,"certification, cybersecurity certification, cybersecurity, certifications, courses, training, certification cybersecurity, free, level, security",Certifications and Learning
+36,132,"privacy, phone, browser, devices, device, tracking, iphone, hacked, app, network",Privacy and Governance
+37,130,"military, navy, force, air force, air, army, clearance, civilian, joining, cyber","Career, Jobs and Hiring"
+38,128,"security, security analyst, analyst, role, career, years, security engineer, engineer, information security, consultant","Career, Jobs and Hiring"
+39,119,"google, google cybersecurity, certificate, coursera, certification, course, cybersecurity certification, cybersecurity, professional, professional certificate",Certifications and Learning
+40,117,"ai, career, field, future, choose, path, cybersecurity, science, software, tech",AI and Automation
+41,117,"account, identity theft, password, theft, identity, hacked, email, number, accounts, passwords",Threat Landscape
+42,112,"cve, vulnerability, zero, critical, zero vulnerability, cve 2025, exploited, cve 2023, 2025, ios",Threat Landscape
+43,111,"week, stories, live, participate, discussion, ciso, watch, headlines, pt, et",EXCLUDE
+44,106,"oscp, cpts, certification, ejpt, pnpt, htb, exam, oscp certification, penetration, cert",Certifications and Learning
+45,102,"trust, zero trust, zero, trust architecture, architecture, thesis, security, implementing, implementation, verify",Defensive Security

@@ -1,0 +1,10 @@
+threat,full_pre,full_post,cs_pre,cs_post,same_dir
+Vulnerability,512,824,512,788,✓
+Data Breach,708,525,708,511,✓
+Ransomware,567,517,567,510,✓
+Malware,367,559,366,520,✓
+Phishing,319,534,315,506,✓
+Prompt Injection,1,119,0,38,✓
+Deepfake,3,33,2,28,✓
+AI Phishing,0,7,0,6,✓
+Supply Chain,45,109,45,109,✓

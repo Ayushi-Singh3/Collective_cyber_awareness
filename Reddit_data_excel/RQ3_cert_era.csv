@@ -1,0 +1,21 @@
+entity,post_genAI,pre_genAI,total,pct_change
+SOC,1238,835,2073,48.3
+CCNA,657,602,1259,9.1
+CISSP,529,459,988,15.3
+OSCP,400,374,774,7.0
+CEH,275,311,586,-11.6
+CISA,137,101,238,35.6
+GIAC,95,84,179,13.1
+CISM,98,74,172,32.4
+eJPT,107,64,171,67.2
+CCNP,71,72,143,-1.4
+CompTIA Security+,59,61,120,-3.3
+Azure Security,58,42,100,38.1
+AWS Security,34,30,64,13.3
+CompTIA Network+,31,20,51,55.0
+PNPT,39,8,47,387.5
+CDSA,28,0,28,inf
+Google Cloud Security,5,2,7,150.0
+CompTIA PenTest+,4,1,5,300.0
+CompTIA CySA+,3,1,4,200.0
+CompTIA A+,1,2,3,-50.0

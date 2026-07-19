@@ -1,0 +1,16 @@
+entity,post_genAI,pre_genAI,total,pct_change
+Vulnerability,925,579,1504,59.8
+Data Breach,525,708,1233,-25.8
+Ransomware,517,567,1084,-8.8
+Malware,597,424,1021,40.8
+Phishing,534,319,853,67.4
+Social Engineering,291,247,538,17.8
+Zero Day,127,96,223,32.3
+Supply Chain,117,49,166,138.8
+Nation State,90,49,139,83.7
+Prompt Injection,119,1,120,11800
+DDoS,66,31,97,112.9
+Deepfake,45,3,48,1400
+Insider Threat,17,8,25,112.5
+AI Phishing,7,0,7,inf
+AI Malware,5,0,5,inf

@@ -1,0 +1,15 @@
+cert,full_pre,full_post,cs_pre,cs_post,same_dir
+SOC,1260,2053,1260,2051,✓
+CCNA,602,657,602,657,✓
+CISSP,459,529,459,528,✓
+OSCP,321,321,321,321,✓
+CEH,301,270,301,270,✓
+CISA,101,137,101,137,✓
+GIAC,53,56,53,56,✓
+CISM,74,98,74,98,✓
+eJPT,64,107,64,107,✓
+CCNP,72,71,72,71,✓
+CompTIA Sec+,7,2,7,2,✓
+Azure Security,18,22,18,22,✓
+AWS Security,29,26,29,26,✓
+PNPT,8,39,8,39,✓

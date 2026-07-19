@@ -1,0 +1,31 @@
+topic_id,count,top_words,category
+0,2934,"cybersecurity, security, degree, career, cyber, certification, cyber security, job, network, experience","Career, Jobs and Hiring"
+1,1055,"threat, cyber, cyber attack, attack, week, intelligence, threat intelligence, news, stories, cyber threat",Threat Landscape
+2,849,"vpn, network, security, home, iot, wifi, router, devices, ip, access",Network and Infrastructure
+3,630,"testing, penetration, penetration testing, lab, kali, web, linux, vulnerability, test, metasploit",Offensive Security
+4,614,"breach, data breach, data, million, customers, security breach, exposed, 000, exposes, report",Threat Landscape
+5,584,"desk, job, years, helpdesk, support, career, year, company, role, position","Career, Jobs and Hiring"
+6,577,"cloud, aws, cloud security, security, engineer, azure, devops, architect, career, certs",Defensive Security
+7,533,"ransomware, ransomware attack, attack, hit, hit ransomware, data, hospital, hackers, colonial, attacks",Threat Landscape
+8,471,"interview, questions, position, cybersecurity, analyst, technical, interview questions, interviews, job, ask","Career, Jobs and Hiring"
+9,456,"soc, soc analyst, analyst, role, job, position, analyst role, experience, security, level","Career, Jobs and Hiring"
+10,444,"awareness, security awareness, project, security, cybersecurity, training, ideas, awareness training, cyber, cyber security",Privacy and Governance
+11,418,"cloud, cloud security, security, siem, aws, azure, github, splunk, logs, data",Defensive Security
+12,362,"ethical, hacking, ethical hacking, udemy, course, learn, practical, free, courses, penetration",Offensive Security
+13,281,"password, passwords, password manager, authentication, manager, factor, mfa, 2fa, factor authentication, password managers",Network and Infrastructure
+14,256,"incident, incident response, response, ir, response plan, forensics, security incident, plan, team, incidents",Defensive Security
+15,212,"dark, dark web, web, data, zoom, sold, sale, leaked, million, deep",Dark Web and Underground
+16,175,"salary, job, company, years, pay, experience, position, raise, analyst, salaries","Career, Jobs and Hiring"
+17,173,"pen, testing, pentesting, penetration, pen testing, tester, penetration testing, pentester, experience, career",Offensive Security
+18,172,"resume, imgur, imgur com, analyst, soc, com, applying, soc analyst, jobs, feedback","Career, Jobs and Hiring"
+19,170,"phishing, phishing attack, email, attack, emails, users, user, spam, malicious, target",Threat Landscape
+20,151,"bootcamp, cybersecurity bootcamp, cybersecurity, boot, worth, boot camp, camp, program, university, cyber",Certifications and Learning
+21,142,"ai, artificial, machine learning, artificial intelligence, ml, machine, cybersecurity, learning, models, intelligence",AI and Automation
+22,139,"books, book, malware, resources, security, network security, read, learn, recommend, list",Certifications and Learning
+23,134,"internship, internships, summer, intern, student, cybersecurity, summer internship, security, experience, computer","Career, Jobs and Hiring"
+24,134,"endpoint, endpoint security, defender, protection, crowdstrike, microsoft, endpoint protection, security, edr, av",Defensive Security
+25,128,"vulnerability, zero, zero vulnerability, cve, exploit, microsoft, patch, log4j, chrome, windows",Threat Landscape
+26,128,"oscp, certification, ejpt, ceh, oscp certification, elearnsecurity, exam, penetration, cert, pentest",Certifications and Learning
+27,122,"infosec, security analyst, analyst, information security, security, information, role, years, experience, job","Career, Jobs and Hiring"
+28,119,"email, account, password, google, gmail, address, changed, amazon, email address, login",Threat Landscape
+29,113,"social engineering, social, engineering, engineering attacks, attacks, humans, techniques, avoid, hacking, slack",Threat Landscape

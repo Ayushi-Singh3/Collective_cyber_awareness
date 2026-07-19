@@ -1,0 +1,21 @@
+entity,Phase1_PreAwareness,Phase2_Disruption,Phase3_Normalisation
+AWS Security,30,7,27
+Azure Security,42,11,47
+CCNA,602,113,544
+CCNP,72,11,60
+CDSA,0,1,27
+CEH,311,26,249
+CISA,101,27,110
+CISM,74,17,81
+CISSP,459,91,438
+CompTIA A+,2,1,0
+CompTIA CySA+,1,1,2
+CompTIA Network+,20,6,25
+CompTIA PenTest+,1,1,3
+CompTIA Security+,61,11,48
+GIAC,84,19,76
+Google Cloud Security,2,2,3
+OSCP,374,50,350
+PNPT,8,6,33
+SOC,835,205,1033
+eJPT,64,15,92

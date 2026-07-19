@@ -1,0 +1,16 @@
+entity,Phase1_PreAwareness,Phase2_Disruption,Phase3_Normalisation
+AI Malware,0,1,4
+AI Phishing,0,0,7
+DDoS,31,5,61
+Data Breach,708,138,387
+Deepfake,3,3,42
+Insider Threat,8,1,16
+Malware,424,97,500
+Nation State,49,7,83
+Phishing,319,97,437
+Prompt Injection,1,21,98
+Ransomware,567,133,384
+Social Engineering,247,32,259
+Supply Chain,49,26,91
+Vulnerability,579,132,793
+Zero Day,96,18,109
